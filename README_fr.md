@@ -16,6 +16,8 @@
 
 *Click [here](README.md) to find the english version.*
 
+Vous pouvez me demander une lettre de recommandation par mail. Je suis actuellement à la recherche d'un poste en télétravail uniquement.
+
 Comme vous l'avez sans doute constaté, je n'ai pas donné mon adresse personnelle car je veux réduire mon empreinte sur l'Internet. Si vous êtes intéressé par mon profil, je vous communiquerai toute information complémentaire dans les plus brefs délais. Vous pouvez me contacter par mail à <colin.bois@rocketmail.com>.
 
 Vous pouvez trouver mon curriculum vitea [ici](assets/CV_fr.pdf).
