@@ -15,7 +15,9 @@
 ## Introduction
 *Clickez [ici](README_fr.md) pour la version française.*
 
-As you may spotted, I did not give any home address. It was intentional because I do not want to leave a big Internet footprint. If you are interested to hire me, feel free to ask any information by mail at <colin.bois@rocketmail.com>, I will reply shortly.
+If you are looking for a reference lettre, feel free to ask by mail. I am currently only interested in remote jobs only.
+
+As you may spotted, I did not give any home address. It was intentional because I do not want to leave a big Internet footprint. If you are interested to hire me, ask me any information by mail at <colin.bois@rocketmail.com>, I will reply shortly.
 
 You can find my résumé [here](assets/CV_fr.pdf).
 
