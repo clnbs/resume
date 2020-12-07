@@ -2,6 +2,7 @@
 
 ## Sommaire
 * [Introduction](#introduction)
+* [Compétences](#comptences)
 * [Mes projets open source](#mes-projets-open-source)
 * [Expériences précédentes](#expriences-prcdentes)
   * [L'école d'ingénieur](#lcole-dingnieur)
@@ -10,7 +11,6 @@
     * [Mes missions à Sunchain](#mes-missions--sunchain)
     * [En résumé](#en-rsum)
   * [Entreprenariat](#Entreprenariat)
-* [Compétences](#comptences)
 
 ## Introduction
 
@@ -19,6 +19,9 @@
 Comme vous l'avez sans doute constaté, je n'ai pas donné mon adresse personnelle car je veux réduire mon empreinte sur l'Internet. Si vous êtes intéressé par mon profil, je vous communiquerai toute information complémentaire dans les plus brefs délais. Vous pouvez me contacter par mail à <colin.bois@rocketmail.com>.
 
 Vous pouvez trouver mon curriculum vitea [ici](assets/CV_fr.pdf).
+
+## Compétences 
+![roadmap](assets/roadmap.png)
 
 ## Mes projets open source
 Je suis actuellement en train de travailler sur un seul projet :
@@ -98,6 +101,3 @@ En tant que développeur :
 ### Entreprenariat
 *En construction*
 
-## Compétences 
-
-![roadmap](assets/roadmap.png)

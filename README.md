@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Skill set](#skill-set)
 * [My open project](#my-open-project)
 * [Previous experiences](#previous-experiences)
   * [Engineering school years](#engineering-school-years)
@@ -10,7 +11,6 @@
     * [My Sunchain missions](#my-sunchain-missions)
     * [Summary](#summary)
   * [Entrepreneurship](#entrepreneurship)
-* [Skill set](#skill-set)
 
 ## Introduction
 *Clickez [ici](README_fr.md) pour la version française.*
@@ -19,6 +19,9 @@ As you may spotted, I did not give any home address. It was intentional because 
 
 You can find my résumé [here](assets/CV_fr.pdf).
 
+## Skill set
+![Roadmap](assets/roadmap.png)
+  
 ## My open project
 I am currently working on only one open project for now :
  - [Autorace](https://github.com/clnbs/autorace) - A scalable racing game
@@ -96,5 +99,4 @@ As a developer :
 ### Entrepreneurship
 *WIP*
 
-## Skill set
-![Roadmap](assets/roadmap.png)  
+
